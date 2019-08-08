@@ -1,4 +1,4 @@
-PDO PHP Database Object composer install namespace
+PDO PHP Database Object composer install namespace PSR4
 
 1) composer install
 
